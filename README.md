@@ -1,2 +1,2 @@
-# commontests
-Place 2 place placeable things
+# notsocommontests
+Place 2 place placeable things unless they do not want to
